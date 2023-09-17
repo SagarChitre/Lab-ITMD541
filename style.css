@@ -35,3 +35,9 @@ body {
     background-color: #ffffff;
     border-radius: 5px;
   }
+
+  img {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
